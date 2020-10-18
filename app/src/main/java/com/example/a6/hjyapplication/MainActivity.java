@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         TextView a = findViewById(R.id.a);
         a.setText("sadadadas\rdsa\ndasda\n dasdsadsa");
         a.setText("s\n");
+        a.setText("a\n");
     }
 }
