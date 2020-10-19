@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         a.setText("sssasaasss\n");
         a.setText("111111\n");
         a.setText("sssasasssasss\n");
+        a.setText("bbb\n");
     }
 }
